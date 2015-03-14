@@ -5,3 +5,6 @@ Steve Jobs/Olivander Photo
 Mark Zuckerberg in 2007
 =======================
 Mark Zuckerberg in 2007. (Photo: Associated Press)
+
+<blockquote class="twitter-tweet" lang="en"><p>A friend who&#39;s learning dev just lost her laptop. Do I know anyone with a spare that they could donate or sell cheap? Linux preferred :)</p>&mdash; cheri marie (@cherimarie) <a href="https://twitter.com/cherimarie/status/510446563856904193">September 12, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
