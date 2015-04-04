@@ -10,9 +10,13 @@ Who can I call out as like DHH? That's a tricky one but will get a laugh.
 ---------------------------------
 Good afternoon.
 
+My talk today is Hogwarts. [slide: psst.... Hogwarts == Traditional Comp Sci Path] Specifically, how we can look Beyond Hogwarts and our old ways of growing magical talent [slide: screenshot of "4 years cs degree..."]
+
 My name is Lovelyn Treasurebox [slide: Jaime Lyn Schatz - Je te vois francophiles / Sprechen sie Deutsch? ]
 
 And I am a half blood. My mother is a Muggle but my father was part of the magical world. [ slide: pic of Dad with some online chat room stuff ]
+
+For years, I didn't listen to the quiet owls rapping on my window pane. [slide: LaGuardia HS vs. Stuvesant] You see, only a chosen few are summoned to Hogwarts with the tenacity of Headmaster Dumbledore. [slide: the masses of letters sent to Harry]. Most of muggle-raised need to be ready to answer the call at the first peck. [NEED a REFERENCE]
 
 Finally, though, I opened my eyes to the wonderful magical world before me and I dove right in. (Find a tweet about this)
 
@@ -46,9 +50,14 @@ So we are now faced with great threats [slide: the Threats] and a growing body o
 First, we need to take better advantage of the recent explosion in beginner magical training opportunities. Just a few years ago, a budding witch or wizard's only real opportunity to study magic was within Hogwarts' walls. 
 That time has gone. High quality beginner-level magical training is just a swish and flick away [slide: Codecademy screenshot of a problem and solution?, slide: FreeCodeCamp, slide: CodeNewbies] And, yes, there is a great deal of bad magic out there, as well [slide: "How Not to Design a MOOC"]. It is up to us to help best training spread and increase its reach.
 
-Next, there have been tremendous strides in developing Hogwarts-level magical training in smaller venues. [slides: Ada Developers Academy, HackerSchool, Madison Software Academy, Hungry Academy] What these smaller schools lack in scale individually (show capacity for each), they make up for in total reach. We need more of them. A lot more. One of these magical schools regularly received 20 times the number of QUALIFIED applicants than they have capacity for. When asked what they needed to expand, one member replied: 
+Next, there have been tremendous strides in developing Hogwarts-level magical training in smaller venues. [slides: Ada Developers Academy, HackerSchool, Madison Software Academy, Hungry Academy] What these smaller schools lack in scale individually (show capacity for each), they make up for in total reach. We need more of them. A lot more. One of these magical schools regularly receives many times more the number of QUALIFIED applicants than they have capacity for. When asked what they needed to expand, one witch involved in selecting the next cohort of new witches replied that they'd love to and only lacked suffient witches and wizrds to teach them all. [slide : (figure out how to embed the tweet here <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/pete_higgins">@pete_higgins</a> I think the bottleneck is in experienced Ruby devs to teach, not students or sponsors. So the question is why don&#39;t YOU, Pete?</p>&mdash; Elizabeth Uselton (@lizuselton) <a href="https://twitter.com/lizuselton/status/485253770796748800">July 5, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>)]
 
 Finally, we need a revival of an old idea: apprenticeships. [slide: the Sorcerer's Apprentice]
 Magica industries both large [slide: Thoughtworks University http://info.thoughtworks.com/ac-naand Enova's apprenticeships program https://www.enova.com/] and small [slide: iTrellis http://www.itrellis.com/] have already embarked on this path. There is still a terrible unbalance between the numbers of witches and wizards seeking out apprenticeships and those enabling them.
+
+We are poised at the brink of a new age in the wizarding world. By increasing the reach of our owls (and other letter-delivering devices!), enabling magical training beyond Hogwarts' walls and by expanding the reach and depth of apprenticeship programs, we are positioned to identify, reach and train the army of witches and wizards we will need to face the magical challenges ahead of us. I invite you to join me in this mission and be sure to leave some floo powder behind for those next in line. [slide: send the elevator back down.]
+
+Thank you.
 
 
