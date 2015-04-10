@@ -4,27 +4,26 @@ Brain Dump for My Talk
 Who can I call out as like DHH? That's a tricky one but will get a laugh.
 
 ---------------------------------
-Good afternoon.
-
-My talk today is Hogwarts. [slide: psst.... Hogwarts == Traditional Comp Sci Path] Specifically, how we can look Beyond Hogwarts and our old ways of growing magical talent [slide: screenshot of "4 years cs degree..."]
+Good afternoon, Professors, distinguished guests, ladies and gentlefolk. It is an honor to be here with you today.
 
 My name is Lovelyn Treasurebox [slide: Jaime Lyn Schatz - Je te vois francophiles / Sprechen sie Deutsch? ]
 
-And I am a half blood. My mother is a Muggle but my father was part of the magical world. [ slide: pic of Dad with some online chat room stuff ]
+My talk today, as you read in your scrolls, [slide: Yes, you're in the right place. Lovelyn here thinks she's at RavenConf. Just play along.] is titled "Beyond Hogwarts - A Half-Blood's Perspective on Inclusive Magical Education." [slide: psst.... Hogwarts == Traditional Comp Sci Path] [slide: screenshot of "4 years cs degree..."] There are great and terrible things just past the horizon. We will need every bit of magical talent we can find to face them and we must all look beyond Hogwarts and our old ways of growing magical talent.
 
-For years, I didn't listen to the quiet owls rapping on my window pane. [slide: LaGuardia HS vs. Stuvesant] You see, only a chosen few are summoned to Hogwarts with the tenacity of Headmaster Dumbledore. [slide: the masses of letters sent to Harry]. Most of muggle-raised need to be ready to answer the call at the first peck. [NEED a REFERENCE]
+As you might have already guess, I am a half blood. My mother is a Muggle but my father was part of the magical world. [ slide: pic of Dad with some online chat room stuff ] I was raised in the Muggle world, complete with Muggle Schooling [slide: Sarah Lawrence College or Poli Sci papers?]. I was quite fortunate and unlike Mr. Harry Potter, was never actively denied my magical heritage [slide: pic of me and the Vulcan shirt from Christmas] I was never actively brought into the magical world, either.
+
+For years, I ignored quiet owls rapping on my window pane. [slide: LaGuardia HS vs. Stuvesant] You see, only a chosen few are summoned to Hogwarts with the tenacity of Headmaster Dumbledore. [slide: the masses of letters sent to Harry]. Most of us muggle-raised need to be ready to answer the call at the first peck. [NEED a REFERENCE]
 
 Finally, though, I opened my eyes to the wonderful magical world before me and I dove right in. (Find a tweet about this)
 
 But you'll notice that my robes and spellbooks are not from Diagon Alley [slide: Codecademy, GitHub, StackOverflow]
 
-My wand (pause, touch laptop) was from a friend and her magical network, given to me at a time of greatest despair. My first steps into the wizarding world were a long time in coming.
+And my precious wand (pause, touch laptop) was from a generous friend and her magical network, given to me at the time of my greatest despair. My first steps into the wizarding world were a long time in coming.
 
-For years, I didn't listen to the quiet owls rapping on my window pane. You see, only a chosen few are sent the level of owls empowered by Dumbledore (need to fix this)
 
 // ===== > where to use this???    =======>    I've even been lucky enough to find some of my father's magical commentary (NOT the Orange Book)
 
-And I've been very lucky. (move halfblood portion here?)
+And I've been very lucky. reference here to Ted? (move halfblood portion here?)
 
 But how many of our next generation's Hermione Grangers won't be lucky?
 With the threats and challenges looming on the horizon (privacy, security, power), we need every single shining star and diamond in the rough, working together to both defend and guide us as we move forward.
