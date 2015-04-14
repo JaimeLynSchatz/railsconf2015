@@ -26,7 +26,7 @@ And my precious wand (pause, touch laptop) was a gift from a magical friend and 
 
 Like Hermione Granger, I've been very lucky.
 
-But how many of our next generation's Hermione won't be as lucky?
+But how many of our next generation's Hermione won't be as lucky? Where would we be now if other half-bloods or muggle born like Severus Snape [slide: DHH] or Lily Evans [slide: NO IDEA] never made their way through Hogwarts' halls?
 
 With the threats and challenges looming on the horizon (privacy, security, power), we will need every single shining star and diamond in the rough, working together to both defend and guide us as we move forward.
 
