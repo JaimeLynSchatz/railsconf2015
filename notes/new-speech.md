@@ -8,24 +8,26 @@ Good afternoon, Professors, distinguished guests, ladies and gentlefolk. It is a
 
 My name is Lovelyn Treasurebox [slide: Jaime Lyn Schatz - Je te vois francophiles / Sprechen sie Deutsch? ]
 
-My talk today, as you read in your scrolls, [slide: Yes, you're in the right place. Lovelyn here thinks she's at RavenConf. Just play along.] is titled "Beyond Hogwarts - A Half-Blood's Perspective on Inclusive Magical Education." [slide: psst.... Hogwarts == Traditional Comp Sci Path] [slide: screenshot of "4 years cs degree..."] There are great and terrible things just past the horizon. We will need every bit of magical talent we can find to face them and we must all look beyond Hogwarts and our old ways of growing magical talent.
+My talk today, as you read in your scrolls, [slide: Yes, you're in the right place. Lovelyn here thinks she's at RavenConf. Just play along.] is titled "Beyond Hogwarts - A Half-Blood's Perspective on Inclusive Magical Education." [slide: psst.... Hogwarts == Traditional Comp Sci Path] [slide: screenshot of "4 years cs degree..."]
+
+Just a few years ago, the magical world faced a threat like no other. It is easy to forget that when Voldemort and his forces threatened us all, two of the three wizards (and witch) who led his defeat were not raised in the magical world. 
+
+There are great and terrible things just past the horizon. We will need every bit of magical talent we can find to face them and we must all look beyond Hogwarts and our old ways of growing magical talent.
 
 As you might have already guess, I am a half blood. My mother is a Muggle but my father was part of the magical world. [ slide: pic of Dad with some online chat room stuff ] I was raised in the Muggle world, complete with Muggle Schooling [slide: Sarah Lawrence College or Poli Sci papers?]. I was quite fortunate and unlike Mr. Harry Potter, was never actively denied my magical heritage [slide: pic of me and the Vulcan shirt from Christmas] I was never actively brought into the magical world, either.
 
-For years, I ignored quiet owls rapping on my window pane. [slide: LaGuardia HS vs. Stuvesant] You see, only a chosen few are summoned to Hogwarts with the tenacity of Headmaster Dumbledore. [slide: the masses of letters sent to Harry]. Most of us muggle-raised need to be ready to answer the call at the first peck. [NEED a REFERENCE]
+For years, I ignored quiet owls rapping on my window pane. [slide: LaGuardia HS vs. Stuvesant] You see, only a chosen few are summoned to Hogwarts with the tenacity of Headmaster Dumbledore. [slide: the masses of letters sent to Harry]. My first steps into the wizarding world were a long time in coming.
 
-Finally, though, I opened my eyes to the wonderful magical world before me and I dove right in. (Find a tweet about this)
+Finally, though, I opened my eyes to the wonderful magical world before me and I dove right in. (Find a tweet about this) I've even been lucky enough to find some of my father's magical commentary (NOT the Orange Book)
 
-But you'll notice that my robes and spellbooks are not from Diagon Alley [slide: Codecademy, GitHub, StackOverflow]
+But you'll notice that my robes are hand-sewn. And spellbooks are only borrowed from Diagon Alley [slide: GitHub]
 
-And my precious wand (pause, touch laptop) was from a generous friend and her magical network, given to me at the time of my greatest despair. My first steps into the wizarding world were a long time in coming.
+And my precious wand (pause, touch laptop) was a gift from a magical friend and her equally magical network, given to me at the time of my greatest despair.
 
-
-// ===== > where to use this???    =======>    I've even been lucky enough to find some of my father's magical commentary (NOT the Orange Book)
-
-And I've been very lucky. reference here to Ted? (move halfblood portion here?)
+I've been very lucky.
 
 But how many of our next generation's Hermione Grangers won't be lucky?
+
 With the threats and challenges looming on the horizon (privacy, security, power), we need every single shining star and diamond in the rough, working together to both defend and guide us as we move forward.
 
 Owls are not enough to find .
