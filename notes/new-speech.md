@@ -1,8 +1,6 @@
 Brain Dump for My Talk
 ======================
 
-Who can I call out as like DHH? That's a tricky one but will get a laugh.
-
 ---------------------------------
 Good afternoon, Professors, distinguished guests, ladies and gentlefolk. It is an honor to be here with you today.
 
