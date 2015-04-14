@@ -10,11 +10,11 @@ My name is Lovelyn Treasurebox [slide: Jaime Lyn Schatz - Je te vois francophile
 
 My talk today, as you read in your scrolls, [slide: Yes, you're in the right place. Lovelyn here thinks she's at RavenConf. Just play along.] is titled "Beyond Hogwarts - A Half-Blood's Perspective on Inclusive Magical Education." [slide: psst.... Hogwarts == Traditional Comp Sci Path] [slide: screenshot of "4 years cs degree..."]
 
-Just a few years ago, the magical world faced a threat like no other. It is easy to forget that when Voldemort and his forces threatened us all, two of the three wizards (and witch) who led his defeat were not raised in the magical world. 
+Just a few years ago, the magical world faced a threat like no other. It is easy to forget that when Voldemort and his forces threatened us all, two of the three wizards (and witch) who led his defeat were not raised in the magical world. Those events have revealed that Muggle-born and (I believe) even Squibs [slide: Squibs == Math/Technophobes] have tremendous magical potential.
 
-There are great and terrible things just past the horizon. We will need every bit of magical talent we can find to face them and we must all look beyond Hogwarts and our old ways of growing magical talent.
+There are great and terrible things just past the horizon. We will need every bit of magical talent we can find to face them and we must all look beyond Hogwarts and our old ways of growing magical talent.  
 
-As you might have already guess, I am a half blood. My mother is a Muggle but my father was part of the magical world. [ slide: pic of Dad with some online chat room stuff ] I was raised in the Muggle world, complete with Muggle Schooling [slide: Sarah Lawrence College or Poli Sci papers?]. I was quite fortunate and unlike Mr. Harry Potter, was never actively denied my magical heritage [slide: pic of me and the Vulcan shirt from Christmas] I was never actively brought into the magical world, either.
+As you might have already guessed, I am a half blood. My mother is a Muggle but my father was part of the magical world. [ slide: pic of Dad with some online chat room stuff ] I was raised in the Muggle world, complete with Muggle Schooling [slide: Sarah Lawrence College]. I was quite fortunate and unlike Mr. Harry Potter, was never actively denied my magical heritage [slide: pic of me and the Vulcan shirt from Christmas -?? can't find this picture] But I was never actively brought into the magical world, either.
 
 For years, I ignored quiet owls rapping on my window pane. [slide: LaGuardia HS vs. Stuvesant] You see, only a chosen few are summoned to Hogwarts with the tenacity of Headmaster Dumbledore. [slide: the masses of letters sent to Harry]. My first steps into the wizarding world were a long time in coming.
 
@@ -24,23 +24,23 @@ But you'll notice that my robes are hand-sewn. And spellbooks are only borrowed 
 
 And my precious wand (pause, touch laptop) was a gift from a magical friend and her equally magical network, given to me at the time of my greatest despair.
 
-I've been very lucky.
+Like Hermione Granger, I've been very lucky.
 
-But how many of our next generation's Hermione Grangers won't be lucky?
+But how many of our next generation's Hermione won't be as lucky?
 
-With the threats and challenges looming on the horizon (privacy, security, power), we need every single shining star and diamond in the rough, working together to both defend and guide us as we move forward.
+With the threats and challenges looming on the horizon (privacy, security, power), we will need every single shining star and diamond in the rough, working together to both defend and guide us as we move forward.
 
-Owls are not enough to find .
+Owls are not enough to find the scores [slide: shot of # members on Codecademy]
 
 And if we continue reaching out, we will ffind that all kinds of birds can be messengers. [slide: Ada Academy Tweet? Or many tweets from different orgs -- bootcamps, FreeCodeCamp, etc]
 
-But Hogwarts faces an additional challenge. Once our students are in Hogwarts, a few of our brightest are not finding what they need there. [slide: The Bill and Zuclkerberg picture here] Thw Weasley Twins quite notoriously abandoned their educations to follow their creative sides. Their entrepenurial spiritss have brought great joy [slide: XBox + Facebook], even while they've spent a bit of our productivity (and more than a bit of our gold) along the way
+But Hogwarts faces an additional challenge. Once our students are in Hogwarts, a few of our brightest are not finding what they need there. [slide: The Bill and Zuclkerberg picture here] Thw Weasley Twins quite notoriously abandoned their educations to follow their creative sides. Their entrepenurial spirits have brought the magical world great joy [slide: XBox + Facebook], even as they've taken a bit of our productivity (and more than a bit of our gold) along the way
 
 And they are not alone. We sometimes forget that even Olivander himself, our revered wandmaker, [slide: Steve Jobs and a Mac], upon whose tools so much of *our* magic depends, did not complete his education at Hogwarts with a stellar record. And there are so many more [slides: Rebecca Garcia .... NEED MORE HERE ]
 
-We need to make room for all of these magical minds to build and create in their own ways, as well -- even if that means extending magical training and wizardly mentorship beyond Hogwarts' walls.
+We need to make room for all of these magical minds to build and create in their own ways, as well -- even if that means extending Hogwarts-level magical training and wizardly mentorship beyond Hogwarts' walls.
 
-A third and final challenge that is sometimes only whispered: The MInistry of Magic ( need good ref here ) is finding that the spells taught at Hogwarts are insufficient. Even our brightest graduates are found lacking in the latest techniques and charms. Much of this was revealed in the period immediately after the battle of Hogwarts. (need a ref, need a ref, need a ref) By having the opportunity to develop their magical skills in the world, our most favored trio are prepared for any magical venture.
+A third and final challenge that is sometimes only whispered: The Ministry of Magic [slide: Microsoft] is finding that the spells taught at Hogwarts are insufficient. Even our brightest graduates are found lacking in the latest techniques and charms. Much of this was revealed in the period immediately after the battle of Hogwarts. To be blunt, the students who fought (and survived) the Battle of Hogwarts have become better witches and wizards. (need a ref, need a ref, need a ref) By having the opportunity to develop their magical skills in the world, our most favored trio and their battling allies have been better prepared for any magical venture.
 
 So we are now faced with great threats [slide: the Threats] and a growing body of students who are either too old for Hogwarts or who have needs beyond the Hogwarts curriculum. We need to look beyond Hogwarts.
 
@@ -53,8 +53,16 @@ Next, there have been tremendous strides in developing Hogwarts-level magical tr
 Finally, we need a revival of an old idea: apprenticeships. [slide: the Sorcerer's Apprentice]
 Magica industries both large [slide: Thoughtworks University http://info.thoughtworks.com/ac-naand Enova's apprenticeships program https://www.enova.com/] and small [slide: iTrellis http://www.itrellis.com/] have already embarked on this path. There is still a terrible unbalance between the numbers of witches and wizards seeking out apprenticeships and those enabling them.
 
-We are poised at the brink of a new age in the wizarding world. By increasing the reach of our owls (and other letter-delivering devices!), enabling magical training beyond Hogwarts' walls and by expanding the reach and depth of apprenticeship programs, we are positioned to identify, reach and train the army of witches and wizards we will need to face the magical challenges ahead of us. I invite you to join me in this mission and be sure to leave some floo powder behind for those next in line. [slide: send the elevator back down.]
+We are poised at the brink of a new age in the wizarding world. By increasing the reach of our owls, enabling magical training beyond Hogwarts' walls and by expanding the reach and depth of apprenticeship programs, we are positioned to identify, reach and train the army of witches and wizards we will need to face the magical challenges ahead of us. I invite all of you to join me in this mission to reach out Beyond Hogwarts for the future of our magical world.
 
 Thank you.
+
+And, yes, we do have some time for questions.
+
+...
+
+Thank you, again. 
+
+And be sure to leave some floo powder behind for those next in line! [slide: send the elevator back down.]
 
 
