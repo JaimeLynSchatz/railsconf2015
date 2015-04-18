@@ -33,7 +33,15 @@ Like Hermione Granger, I've been very lucky.
 
 But how many of our next generation's Hermione won't be as lucky? Where would we be now if other half-bloods or muggle born like Severus Snape [slide: DHH] or Lily Evans [slide: NO IDEA] never made their way through Hogwarts' halls?
 
-There are great and terrible things just past the horizon. We will need every bit of magical talent we can find to face them and we must all look beyond Hogwarts and our old ways of growing magical talent.  
+There are great and terrible things just past the horizon. We will need every bit of magical talent we can find to face them and we must all look beyond Hogwarts and our old ways of growing magical talent.
+
+And it's not just Muggle-born who have needs Beyond Hogwarts. Once our students are in school, a few of our brightest are not finding what they need there. [slide: The Bill and Zuckerberg picture here] The Weasley Twins quite notoriously abandoned their educations to follow their creative sides. When you literally set a fire dragon charm on your teacher and then fly out of school on a broomstick, fireworks spraying, it’s hard NOT to be remembered for dropping out. Their entrepenurial spirits have brought the magical world great joy [slide: XBox + Facebook], even as they've taken a bit of our productivity (and a LOT of our gold) in return.
+
+And they are not alone. We sometimes forget that even Olivander himself, our revered wandmaker, [slide: Steve Jobs and a Mac], upon whose tools so much of *our* magic depends, is not known for an illustrious school career at Hogwarts. And there are so many more [slides: Rebecca Garcia, Jen Meyers  .... NEED MORE HERE ]
+
+We need to make room for all of these magical minds to build and create in their own ways, as well -- even if that means extending Hogwarts-level magical training and wizardly mentorship beyond Hogwarts' walls.
+
+A third and final challenge that is sometimes only whispered: The Ministry of Magic [slide: Microsoft] is finding that the spells taught at Hogwarts are insufficient. Even our brightest graduates are found lacking in the latest techniques and charms. Much of this was revealed in the period immediately after the battle of Hogwarts. To be blunt, the students who fought (and survived) the Battle of Hogwarts have become better witches and wizards. (need a ref, need a ref, need a ref) By having the opportunity to develop their magical skills in the world, our most favored trio and their battling allies have been better prepared for any magical venture.
 
 With the threats and challenges looming on the horizon (privacy, security, power), we will need every single shining star and diamond in the rough, working together to both defend and guide us as we move forward.
 
@@ -42,15 +50,6 @@ Owls are not enough.
 [slide: shot of # members on Codecademy]
 
 And if we continue reaching out, we will ffind that all kinds of birds can be messengers. [slide: Ada Academy Tweet? Or many tweets from different orgs -- bootcamps, FreeCodeCamp, etc]
-
-But Hogwarts faces an additional challenge. Once our students are in Hogwarts, a few of our brightest are not finding what they need there. [slide: The Bill and Zuclkerberg picture here] Thw Weasley Twins quite notoriously abandoned their educations to follow their creative sides. Their entrepenurial spirits have brought the magical world great joy [slide: XBox + Facebook], even as they've taken a bit of our productivity (and more than a bit of our gold) along the way
-
-And they are not alone. We sometimes forget that even Olivander himself, our revered wandmaker, [slide: Steve Jobs and a Mac], upon whose tools so much of *our* magic depends, did not complete his education at Hogwarts with a stellar record. And there are so many more [slides: Rebecca Garcia .... NEED MORE HERE ]
-
-We need to make room for all of these magical minds to build and create in their own ways, as well -- even if that means extending Hogwarts-level magical training and wizardly mentorship beyond Hogwarts' walls.
-
-A third and final challenge that is sometimes only whispered: The Ministry of Magic [slide: Microsoft] is finding that the spells taught at Hogwarts are insufficient. Even our brightest graduates are found lacking in the latest techniques and charms. Much of this was revealed in the period immediately after the battle of Hogwarts. To be blunt, the students who fought (and survived) the Battle of Hogwarts have become better witches and wizards. (need a ref, need a ref, need a ref) By having the opportunity to develop their magical skills in the world, our most favored trio and their battling allies have been better prepared for any magical venture.
-
 So we are now faced with great threats [slide: the Threats] and a growing body of students who are either too old for Hogwarts or who have needs beyond the Hogwarts curriculum. We need to look beyond Hogwarts.
 
 First, we need to take better advantage of the recent explosion in beginner magical training opportunities. Just a few years ago, a budding witch or wizard's only real opportunity to study magic was within Hogwarts' walls. 
