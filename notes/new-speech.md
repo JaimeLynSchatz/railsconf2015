@@ -2,19 +2,26 @@ Brain Dump for My Talk
 ======================
 
 ---------------------------------
-Good afternoon, Professors, distinguished guests, ladies and gentlefolk. It is an honor to be here with you today.
+Good afternoon, Professors, distinguished guests, Head Mistress, scholars and gentlefolk. My name is Lovelyn Treasurebox [slide: Jaime Lyn Schatz - Je te vois francophiles / Sprechen sie Deutsch? ]
 
-My name is Lovelyn Treasurebox [slide: Jaime Lyn Schatz - Je te vois francophiles / Sprechen sie Deutsch? ]
+It is an absolute honor to be with you here today at RavenConf.
 
-My talk today, as you read in your scrolls, [slide: Yes, you're in the right place. Lovelyn here thinks she's at RavenConf. Just play along.] is titled "Beyond Hogwarts - A Half-Blood's Perspective on Inclusive Magical Education." [slide: psst.... Hogwarts == Traditional Comp Sci Path] [slide: screenshot of "4 years cs degree..."]
+While I'm not an offical Alumna, House Ravenclaw has drawn me in with welcoming arms. It's a remarkable magical community.
 
-Just a few years ago, the magical world faced a threat like no other. It is easy to forget that when Voldemort and his forces threatened us all, two of the three wizards (and witch) who led his defeat were not raised in the magical world. Those events have revealed that Muggle-born and (I believe) even Squibs [slide: Squibs == Math/Technophobes] have tremendous magical potential.
+But you already knew that.
 
-There are great and terrible things just past the horizon. We will need every bit of magical talent we can find to face them and we must all look beyond Hogwarts and our old ways of growing magical talent.  
 
-As you might have already guessed, I am a half blood. My mother is a Muggle but my father was part of the magical world. [ slide: pic of Dad with some online chat room stuff ] I was raised in the Muggle world, complete with Muggle Schooling [slide: Sarah Lawrence College]. I was quite fortunate and unlike Mr. Harry Potter, was never actively denied my magical heritage [slide: pic of me and the Vulcan shirt from Christmas -?? can't find this picture] But I was never actively brought into the magical world, either.
+As you've read in your scrolls, [slide: Yes, you're in the right place. Lovelyn here thinks she's at RavenConf. Just play along.] my talk today is titled "Beyond Hogwarts - A Half-Blood's Perspective on Inclusive Magical Education." [slide: psst.... Hogwarts == CS Degree]
 
-For years, I ignored quiet owls rapping on my window pane. [slide: LaGuardia HS vs. Stuvesant] You see, only a chosen few are summoned to Hogwarts with the tenacity of Headmaster Dumbledore. [slide: the masses of letters sent to Harry]. My first steps into the wizarding world were a long time in coming.
+For generations, the magical world was make up of witches and wizards carefully identified before they are even teens, cloistered away in magical schools like Hogwarts or Durnstrang or the Salem Witches Institute. There they are trained and groomed in their magical abilities and then sent out into the world to carry on our traditions.
+
+It's been a good system, proven by time and trial to grow the magical talent we need to thrive.
+
+But several years ago, the magical world faced a threat like no other. It is easy to forget that when Voldemort and his forces threatened us all, two of the three wizards (and witch) who led his defeat were not raised in the magical world. Those events have lifted veil and have revealed to the World the incredible magical potential of Muggleborn (and I believe, even of Squibs.)
+
+As you might have already guessed, I am a half blood. My mother is a Muggle but my father was part of the magical world. [ slide: pic of Dad with some online chat room stuff ] I was raised in the Muggle world, complete with Muggle Schooling [slide: Sarah Lawrence College]. I was quite fortunate and unlike Mr. Harry Potter, was never actively denied my magical heritage [slide: pic of me and the Vulcan shirt from Christmas -?? can't find this picture] But I was never actively brought into the magical world, either. So I thought my magical side was just a fluke. I thought it couldn't possibly be strong enough to warrant pursuing.
+
+So for years, I ignored quiet owls rapping on my window pane. [slide: LaGuardia HS vs. Stuvesant] You see, only a chosen few are summoned to Hogwarts with the tenacity of Headmaster Dumbledore. [slide: the masses of letters sent to Harry]. My first steps into the wizarding world were a long time in coming.
 
 Finally, though, I opened my eyes to the wonderful magical world before me and I dove right in. (Find a tweet about this) I've even been lucky enough to find some of my father's magical commentary (NOT the Orange Book)
 
@@ -26,9 +33,13 @@ Like Hermione Granger, I've been very lucky.
 
 But how many of our next generation's Hermione won't be as lucky? Where would we be now if other half-bloods or muggle born like Severus Snape [slide: DHH] or Lily Evans [slide: NO IDEA] never made their way through Hogwarts' halls?
 
+There are great and terrible things just past the horizon. We will need every bit of magical talent we can find to face them and we must all look beyond Hogwarts and our old ways of growing magical talent.  
+
 With the threats and challenges looming on the horizon (privacy, security, power), we will need every single shining star and diamond in the rough, working together to both defend and guide us as we move forward.
 
-Owls are not enough to find the scores [slide: shot of # members on Codecademy]
+Owls are not enough.
+
+[slide: shot of # members on Codecademy]
 
 And if we continue reaching out, we will ffind that all kinds of birds can be messengers. [slide: Ada Academy Tweet? Or many tweets from different orgs -- bootcamps, FreeCodeCamp, etc]
 
