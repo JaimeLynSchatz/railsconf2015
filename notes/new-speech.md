@@ -41,11 +41,16 @@ And they are not alone. We sometimes forget that even Olivander himself, our rev
 
 We need to make room for all of these magical minds to build and create in their own ways, as well -- even if that means extending Hogwarts-level magical training and wizardly mentorship beyond Hogwarts' walls.
 
-A third and final challenge that is sometimes only whispered: The Ministry of Magic [slide: Microsoft] is finding that the spells taught at Hogwarts are insufficient. Even our brightest graduates are found lacking in the latest techniques and charms. Much of this was revealed in the period immediately after the battle of Hogwarts. To be blunt, the students who fought (and survived) the Battle of Hogwarts have become better witches and wizards. (need a ref, need a ref, need a ref) By having the opportunity to develop their magical skills in the world, our most favored trio and their battling allies have been better prepared for any magical venture.
+A third and final challenge that is sometimes only whispered: The Ministry of Magic [slide: Microsoft] is finding that the spells taught at Hogwarts are (sometimes) insufficient. Even our brightest graduates are found lacking in the latest techniques and charms. While their theoretical knowledge is superb, learning the magical theory does not help much when faced with a real-life conflict. [slide: MERGE CONFLICT, that is]
+
+OWLS are not enough.
+
+This gap between knowledge and experience, between theory and practice was revealed after the Battle of Hogwarts.
+
+To be blunt, the students who fought (and survived) Voldemort and his Death Eaters are simply better witches and wizards today. By having the opportunity to develop their magical skills in the real world, our most favored trio and their battling allies are better prepared for any magical venture.
 
 With the threats and challenges looming on the horizon (privacy, security, power), we will need every single shining star and diamond in the rough, working together to both defend and guide us as we move forward.
 
-Owls are not enough.
 
 [slide: shot of # members on Codecademy]
 
