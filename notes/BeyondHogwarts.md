@@ -1,5 +1,6 @@
-Brain Dump for My Talk
+Beyond Hogwarts
 ======================
+A Half-Blood's Perspective on Inclusive Magical Education
 
 ---------------------------------
 Good afternoon, Professors, distinguished guests, Head Mistress, scholars and gentlefolk. My name is Lovelyn Treasurebox [slide: Jaime Lyn Schatz - Je te vois francophiles / Sprechen sie Deutsch? ]
@@ -9,7 +10,6 @@ It is an absolute honor to be with you here today at RavenConf.
 While I'm not an offical Alumna, House Ravenclaw has drawn me in with welcoming arms. It's a remarkable magical community.
 
 But you already knew that.
-
 
 As you've read in your scrolls, [slide: Yes, you're in the right place. Lovelyn here thinks she's at RavenConf. Just play along.] my talk today is titled "Beyond Hogwarts - A Half-Blood's Perspective on Inclusive Magical Education." [slide: psst.... Hogwarts == CS Degree]
 
