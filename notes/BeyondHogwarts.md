@@ -33,7 +33,7 @@ Like Hermione Granger, I've been very lucky.
 
 But how many of our next generation's Hermione won't be as lucky? Where would we be now if other half-bloods or muggle born like Severus Snape [slide: DHH] or Lily Evans [slide: NO IDEA] never made their way through Hogwarts' halls?
 
-There are great and terrible things just past the horizon. We will need every bit of magical talent we can find to face them and we must all look beyond Hogwarts and our old ways of growing magical talent.
+There are great and terrible things just past the horizon. We will need every bit of magical talent we can find to face them and we must all look beyond Hogwarts and our old ways of growing magical talent. And if we continue reaching out, we will find that all kinds of birds can be messengers. [slide: CodeNewbie tweet]
 
 And it's not just Muggle-born who have needs Beyond Hogwarts. Once our students are in school, a few of our brightest are not finding what they need there. [slide: The Bill and Zuckerberg picture here] The Weasley Twins quite notoriously abandoned their educations to follow their creative sides. When you literally set a fire dragon charm on your teacher and then fly out of school on a broomstick, fireworks spraying, it’s hard NOT to be remembered for dropping out. Their entrepenurial spirits have brought the magical world great joy [slide: XBox + Facebook], even as they've taken a bit of our productivity (and a LOT of our gold) in return.
 
@@ -47,18 +47,12 @@ OWLS are not enough.
 
 This gap between knowledge and experience, between theory and practice was revealed after the Battle of Hogwarts.
 
-To be blunt, the students who fought (and survived) Voldemort and his Death Eaters are simply better witches and wizards today. By having the opportunity to develop their magical skills in the real world, our most favored trio and their battling allies are better prepared for any magical venture.
+To be blunt, the students who fought (and survived) Voldemort and his Death Eaters are simply better witches and wizards today. By having the opportunity to develop their magical skills in the real world, our most favored trio and their battling allies are better prepared for any magical venture. Whether that be in times of peace, or times of war.
 
-With the threats and challenges looming on the horizon (privacy, security, power), we will need every single shining star and diamond in the rough, working together to both defend and guide us as we move forward.
-
-
-[slide: shot of # members on Codecademy]
-
-And if we continue reaching out, we will ffind that all kinds of birds can be messengers. [slide: Ada Academy Tweet? Or many tweets from different orgs -- bootcamps, FreeCodeCamp, etc]
 So we are now faced with great threats [slide: the Threats] and a growing body of students who are either too old for Hogwarts or who have needs beyond the Hogwarts curriculum. We need to look beyond Hogwarts.
 
 First, we need to take better advantage of the recent explosion in beginner magical training opportunities. Just a few years ago, a budding witch or wizard's only real opportunity to study magic was within Hogwarts' walls. 
-That time has gone. High quality beginner-level magical training is just a swish and flick away [slide: Codecademy screenshot of a problem and solution?, slide: FreeCodeCamp, slide: CodeNewbies] And, yes, there is a great deal of bad magic out there, as well [slide: "How Not to Design a MOOC"]. It is up to us to help best training spread and increase its reach.
+That time has gone. High quality beginner-level magical training is just a swish and flick away [slide: Codecademy screenshot of a problem and solution?, slide: FreeCodeCamp, slide: CodeNewbies] And, yes, there is a great deal of bad magic out there, as well [slide: "How Not to Design a MOOC"]. It is up to us to help best training spread and increase its reach.]
 
 Next, there have been tremendous strides in developing Hogwarts-level magical training in smaller venues. [slides: Ada Developers Academy, HackerSchool, Madison Software Academy, Hungry Academy] What these smaller schools lack in scale individually (show capacity for each), they make up for in total reach. We need more of them. A lot more. One of these magical schools regularly receives many times more the number of QUALIFIED applicants than they have capacity for. When asked what they needed to expand, one witch involved in selecting the next cohort of new witches replied that they'd love to and only lacked suffient witches and wizrds to teach them all. [slide : (figure out how to embed the tweet here <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/pete_higgins">@pete_higgins</a> I think the bottleneck is in experienced Ruby devs to teach, not students or sponsors. So the question is why don&#39;t YOU, Pete?</p>&mdash; Elizabeth Uselton (@lizuselton) <a href="https://twitter.com/lizuselton/status/485253770796748800">July 5, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>)]
@@ -67,6 +61,8 @@ Finally, we need a revival of an old idea: apprenticeships. [slide: the Sorcerer
 Magica industries both large [slide: Thoughtworks University http://info.thoughtworks.com/ac-naand Enova's apprenticeships program https://www.enova.com/] and small [slide: iTrellis http://www.itrellis.com/] have already embarked on this path. There is still a terrible unbalance between the numbers of witches and wizards seeking out apprenticeships and those enabling them.
 
 We are poised at the brink of a new age in the wizarding world. By increasing the reach of our owls, enabling magical training beyond Hogwarts' walls and by expanding the reach and depth of apprenticeship programs, we are positioned to identify, reach and train the army of witches and wizards we will need to face the magical challenges ahead of us. I invite all of you to join me in this mission to reach out Beyond Hogwarts for the future of our magical world.
+
+With the threats and challenges looming on the horizon (privacy, security, power), we will need every single shining star and diamond in the rough, working together to both defend and guide us as we move forward.
 
 Thank you.
 
